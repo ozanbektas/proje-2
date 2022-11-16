@@ -1,3 +1,10 @@
+# Merge Sort Project
+# www.patika.dev
+# https://app.patika.dev/ozanbektas
+
+
+
+
 [16,21,11,8,12,22]
 
 [16,21,11]--> [16,21] [11]--> [16] [21] [11]   --> [11,16,21]
